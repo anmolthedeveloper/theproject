@@ -30,7 +30,10 @@ int main()
 {
     factorial f;
     f.input();
-    f.calc();
-    f.output();
+    for(int i=0;i<3;i++)
+    {
+        f.calc();
+        f.output();
+    }
     return 0;
 }
