@@ -23,7 +23,7 @@ void factorial::calc(){
 }
 
 void factorial::output(){
-    cout<<endl<<"Factorial of "<<inp<<" is "<<f;
+    cout<<endl<<"Fact of. "<<inp<<" is "<<f;
 }
 
 int main()
